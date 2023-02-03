@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+UploadFilesHeadlessRPA/__init__.py
+UploadFilesHeadlessRPA/__main__.py
+UploadFilesHeadlessRPA/bot.py
+UploadFilesHeadlessRPA.egg-info/PKG-INFO
+UploadFilesHeadlessRPA.egg-info/SOURCES.txt
+UploadFilesHeadlessRPA.egg-info/dependency_links.txt
+UploadFilesHeadlessRPA.egg-info/requires.txt
+UploadFilesHeadlessRPA.egg-info/top_level.txt
+UploadFilesHeadlessRPA/resources/start.png
